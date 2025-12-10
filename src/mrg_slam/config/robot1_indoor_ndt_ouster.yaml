@@ -1,7 +1,7 @@
 "/**":
   ros__parameters:
     robot_namespace: "robot1"
-    use_sim_time: true
+    use_sim_time: false
     lidar_points_topic: "/robot1/ouster/points"
     wheel_odom_topic: "/robot1/odom"
     enable_slam_tf_broadcast: false
